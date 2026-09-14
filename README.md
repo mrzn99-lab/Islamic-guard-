@@ -1,38 +1,62 @@
-# 🛡️ Islamic Guard v1.0.0
+# 🛡️ Islamic Guard
 
 **Your Deen · Your Shield**
 
-First stable release!
+A fully offline Android protection app that detects and blocks inappropriate content while helping you build a strong habit streak through **Iron Will**.
+
+---
 
 ## ✨ Features
 
-- Fully offline NSFW content blocker
-- On-device AI (GantMan MobileNetV2)
-- Iron Will streak tracker
-- 100+ Islamic verses and hadiths
-- Multi-theme support
-- Home screen widget
-- Anti-uninstall protection
+- 🔒 **Fully Offline** — No internet, no data collection
+- 🤖 **On-Device AI** — GantMan MobileNetV2 NSFW detection
+- 🎯 **Smart Scanning** — Motion-based detection
+- 🕌 **Islamic Reminders** — 100+ Quranic verses and hadiths
+- 💪 **Iron Will** — Build and track clean streak
+- 🏆 **Milestones** — Unlock achievements
+- 🎯 **Goals** — Personal targets with progress
+- 📊 **Progress** — 30-day calendar and stats
+- 🎨 **Multi-Theme** — 4 customizable backgrounds
+- 📱 **Widget** — Home screen streak counter
+
+---
 
 ## 📥 Installation
 
-1. Download `IslamicGuard-v1.0.apk`
+1. Download the latest APK from [Releases](../../releases)
 2. Enable "Install from unknown sources"
-3. Install the APK
-4. Open and complete setup
+3. Install and open
+4. Complete setup:
+   - Device Admin
+   - Usage Access
+   - Accessibility
+5. Tap **START PROTECTION**
+
+---
 
 ## 📋 Requirements
 
-- Android 11+ (API 30+)
+- **Android 11+** (API 30)
 - ~50 MB storage
 
-## 🕌 Islamic Values
+---
 
-> "Tell the believing men to lower their gaze and guard their chastity."
-> — Surah An-Nur 24:30
+## 🔐 Permissions
+
+| Permission | Why |
+|---|---|
+| Accessibility | Content scanning |
+| Device Admin | Anti-uninstall |
+| Usage Access | Detect active apps |
+
+---
+
+## 🤲 Islamic Values
+
+> "Tell the believing men to lower their gaze and guard their chastity. That is purer for them."
+> — **Surah An-Nur 24:30**
 
 ---
 
 **Made with ❤️ for the Ummah**
-
 # MRZN apps games by Rafiuzzaman 
