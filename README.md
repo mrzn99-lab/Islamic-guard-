@@ -23,7 +23,7 @@ A fully offline Android protection app that detects and blocks inappropriate con
 
 ## 📥 Installation
 
-1. Download the latest APK from [Releases](../../releases)
+1. Download the latest APK from here.
 2. Enable "Install from unknown sources"
 3. Install and open
 4. Complete setup:
